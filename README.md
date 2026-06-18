@@ -6,6 +6,12 @@ A simple Tic-Tac-Toe game built using:
 - CSS
 - JavaScript
 
+## 🎮 Live Demo
+
+Play online here:
+
+👉 https://alecjara.github.io/TicTacToe/
+
 ## Features
 
 - Two-player gameplay
