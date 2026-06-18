@@ -14,10 +14,15 @@ A simple Tic-Tac-Toe game built using:
 - Restart button
 - Winning cell highlight
 
-## Screenshot
+## Screenshots
 
-(Add a screenshot here later)
+### Game Board
 
+![Game Board](./images/board.png)
+
+### Winning Cells Highlighted
+
+![Winning Example](./images/win.png)
 ## How to Run
 
 1. Download the project
